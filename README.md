@@ -191,22 +191,5 @@ This project demonstrates:
 * UI/UX design concepts
 * State management
 
----
 
-## 📜 License
 
-This project is open-source and free to use for educational purposes.
-
----
-
-## 👨‍💻 Author
-
-Developed as a Java Swing GUI project focused on combining:
-
-> classic gameplay + cinematic UI + custom rendering
-
----
-
-## ⭐ If You Like This Project
-
-Give the repository a star and improve it further 🚀
